@@ -295,6 +295,10 @@ i {
   color: #FFF;
 }
 
+.footer p {
+  text-align: center;
+}
+
 .footer-icons {
   display: flex;
   gap: 8px;
