@@ -227,10 +227,6 @@
   color: $white-normal;
 }
 
-.footer p {
-  text-align: center;
-}
-
 .footer-icons {
   display: flex;
   gap: 8px;
@@ -283,5 +279,9 @@
     img {
       max-width: 44px;
     }
+  }
+
+  .footer p {
+    text-align: center;
   }
 }
